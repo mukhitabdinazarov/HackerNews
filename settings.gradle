@@ -1,0 +1,4 @@
+include ':di'
+include ':data'
+include ':app', ':domain'
+rootProject.name = "HackerNews"
